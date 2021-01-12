@@ -67,3 +67,5 @@
 
 
 ![抽象工厂例子](../res/abstractFactoryExample.png)
+
+[代码](../../main/java/creational/abstractfactory)
