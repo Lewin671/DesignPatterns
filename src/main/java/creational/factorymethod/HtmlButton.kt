@@ -1,6 +1,6 @@
 package creational.factorymethod
 
-class HtmlButton:Button {
+class HtmlButton : Button {
     override fun render() {
         println("HTML button is rendered")
     }

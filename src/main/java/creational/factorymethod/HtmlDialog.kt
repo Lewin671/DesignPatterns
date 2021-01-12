@@ -1,6 +1,6 @@
 package creational.factorymethod
 
-class HtmlDialog:Dialog {
+class HtmlDialog : Dialog {
     override fun createButton(): Button {
         return HtmlButton()
     }

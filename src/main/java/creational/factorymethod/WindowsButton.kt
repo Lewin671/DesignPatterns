@@ -1,6 +1,6 @@
 package creational.factorymethod
 
-class WindowsButton : Button{
+class WindowsButton : Button {
     override fun render() {
         println("Windows button is rendered")
     }

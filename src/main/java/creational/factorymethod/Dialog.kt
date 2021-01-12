@@ -1,5 +1,5 @@
 package creational.factorymethod
 
 interface Dialog {
-    fun createButton():Button
+    fun createButton(): Button
 }
