@@ -45,3 +45,4 @@
 
 ![apdaterExample](../res/adapterExample.png)
 
+[代码](../../main/java/structural/adapter)
