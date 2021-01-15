@@ -26,3 +26,4 @@
 ### 行为设计模式
 
 - [观察者模式](./src/doc/behavioral/Observer.md)
+- [迭代器模式](./src/doc/behavioral/Iteritor.md)
