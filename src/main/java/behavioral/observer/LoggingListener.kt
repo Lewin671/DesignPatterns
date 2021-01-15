@@ -7,7 +7,9 @@ class LoggingListener(fileName: String) : EventListener {
 
 
     override fun update(eventType: String, file: File) {
-        println("Save to log  $log: Someone has performed $eventType operation " +
-                "with the following file: ${file.name}")
+        println(
+            "Save to log  $log: Someone has performed $eventType operation " +
+                    "with the following file: ${file.name}"
+        )
     }
 }
