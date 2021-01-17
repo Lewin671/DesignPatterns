@@ -17,6 +17,7 @@
 
 - [工厂模式](./src/doc/creational/FactoryMethod.md)
 - [抽象工厂模式](./src/doc/creational/AbstractFactory.md)
+- [单例模式](./src/doc/creational/Singleton.md)
 
 ### 结构型设计模式
 
